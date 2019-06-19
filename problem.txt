@@ -3,3 +3,5 @@
 2.获取上下行网速
 资料：https://blog.csdn.net/yxl123546/article/details/52892082
 https://www.jianshu.com/p/16e9a2c5a849
+3.驻留后台
+资料：https://blog.csdn.net/ios_dashen/article/details/50352204
