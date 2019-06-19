@@ -1,3 +1,5 @@
 1.解决编译问题
 从HME抽离出来，代码CartonDetectionTool已经完成，编译通过，没真机测试
 2.获取上下行网速
+资料：https://blog.csdn.net/yxl123546/article/details/52892082
+https://www.jianshu.com/p/16e9a2c5a849
